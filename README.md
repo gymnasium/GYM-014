@@ -1,6 +1,6 @@
 [![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
-# Introduction to Pattern Lab
+# Working with Atomic Design and Pattern Lab
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 

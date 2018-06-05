@@ -1,9 +1,0 @@
-{
-    "footerLogo" : {
-        "imgLogoSrc" : "../../images/threadahead-reversed.svg"
-    },
-    "navToggle" : {
-        "styleModifier" : "c-header__nav-btn js-nav-trigger",
-        "buttonText" : "Menu"
-    }
-}
